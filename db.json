@@ -1,4 +1,5 @@
 {
+    "test":{
     "urls": [
         {
             "name": "🍚饭太硬",
@@ -49,4 +50,5 @@
             "url": "https://la.kstore.space/download/3376/xpg.txt"
         }
     ]
+}
 }
